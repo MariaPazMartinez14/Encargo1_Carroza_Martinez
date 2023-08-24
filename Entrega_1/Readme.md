@@ -33,13 +33,14 @@ Revelar la importancia de invertir en la industria de comida vegana comparando l
 
 ## Plan de Trabajo
 
-**Datos necesarios para probar la hipótesis:** El número de personas que opta por una dieta vegana en el paso de los años para así poder ver su aumento.
+**Datos necesarios para probar la hipótesis:** El precio de los productos de origen animal y ver el costo de su reemplazo vegetal. El precio de un plato de comida en base de vegetales y el precio de comida de un plato con productos de origen animal. Número de personas que siguen una dieta vegana. Consecuencias de seguir una dieta vegana para la salud, y las diferencias las consecuencias de una dieta carnivora. Cuánto contamina la industria ganadera, cuánto contamina la industria de productos a base de vegetales. 
 
 **Datos que tenemos y necesitamos conseguir:** 
 - Porcentaje de chilenos veganos.
 - Cifra de restaurantes que ofrecen comida vegana.
 - Productos veganos a la venta (cuánto se compra).
-- Zonas donde hay más personas que optan por dieta vegana.
+- Contaminación de la industria ganadera 
+- Precios de alimentos veganos 
 
 **Datos que no existen y cómo los obtendremos:** Para aquellos datos que no tengamos, lo ideal sería poder contactar fuentes expertas que puedan entregar información al respecto.
 
@@ -55,6 +56,8 @@ Máximo: Analizar el crecimiento de una marca específica.
 - ¿Debe ser obligatorio incluir comida vegana en los restaurantes?
 - ¿La comida vegana es importante en el mercado chileno?
 - ¿Es una buena inversión para los restaurantes contar con opciones veganas?
+- ¿Deberíamos incluir más productos de origen vegetal en nuestra dieta?
+- ¿Es viable seguir una dieta vegana?
 
 **Elementos Digitales Deseados:**
 Una cuenta en redes sociales que pueda publicar información sobre el mundo del veganismo y vegetarianismo para informar y narrar lo investigado.
