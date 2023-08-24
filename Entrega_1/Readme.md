@@ -15,8 +15,9 @@ Sin embargo, con el paso de los años y el aumento de personas que se han sumado
 
 "En relación con el veganismo y el cuidado del medio ambiente, Pete Smith, investigador del Instituto de Ciencias Biológicas y Ambientales de la U. de Aberdeen, Escocia, declaró después de 20 años de investigación: “Debemos cambiar radicalmente la forma en que producimos alimentos si queremos alimentar a 9-10 mil 3  millones de personas en 2050 sin destruir el planeta de forma irreversible”… “Aparte de las grandes áreas de terreno que se emplean en la ganadería directamente, más del 30% de todos los cultivos producidos a nivel mundial son para alimentar al ganado”… En los 20 años más o menos que llevan investigando estos problemas, han llegado a la conclusión de que se debe reducir significativamente el consumo de productos de origen animal. Actualmente la postura científica dominante es la de la necesidad de reducir la demanda de productos de origen animal” (Greenpeace, 2018)". 
 
-La evidencia anteriormente expuesta, expresa claramente como el veganismo significa un beneficio en términos de salud y medioambiente. Por esta razón, queremos probar porque se deberia impulsar e invertir en la industria vegana.
+La evidencia expuesta muestra claramente como el veganismo significa un beneficio en términos de salud y medioambiente. Por esta razón, **queremos probar porque se debería impulsar e invertir en la industria vegana.**
 
+"Un reciente estudio señala que el 18% de los chilenos se considera vegano o vegetariano, con una mirada cercana al respeto a los animales, el medioambiente y el cambio climático". En Chile hay demanda, existe una buena base para invertir en el mercado vegano y así promover de manera colateral los beneficios del veganismo."Para 2019 las ventas minoristas de alimentos en Chile alcanzaron los 15.700 millones de dólares (Chile Alimentos, 2020), y para ese entonces, el mercado vegano representaba el 6% de la oferta. Sin embargo, a 2021 esta cifra llegó a los 25.600 millones de dólares (Portal Frutícola, 2022) y los productos veganos representaron el 12% de la cuota de mercado (Mintel Group, 2021).  
  
 
 ## Hipótesis
