@@ -9,7 +9,12 @@ Investigar las distintas aristas que se ven expuestas a la crítica de la dieta 
 
 ## Antecedentes
 
-En un contexto donde el mundo ha ganado consciencia en temas de sostenibilidad, salud y bienestar animal, se ha visto un crecimiento en el consumo de comida y productos veganos. Chile no se ha quedado atrás, con un implemento de opciones veganas en restaurantes y también en la creación y expansión de productos de origen vegetal. Lo que nosotras queremos analizar es cómo ha impactado este crecimiento de consumo en materia económica. Queremos evidenciar cómo las marcas se han beneficiado, al igual que los restaurantes, con la inclusión y venta de estos productos.
+Con el paso de los años se ha ido estudiando los porcentajes de consumidores de comida vegana y sus beneficios. Estudios indican que llevar dietas veganas trae beneficios, no solo para la salud del consumidor, si no que para el medio ambiente. “En 2017 la Universidad de Florencia comparó la salud de personas vegetarianas y veganas con la de personas omnívoras, obteniendo como principal conclusión que la alimentación vegetal protege de enfermedades al corazón y del cáncer, encontrando una reducción de padecer dichas enfermedades en un 8% con una dieta vegetariana y del 15% con dieta vegana”. Además, los veganos padecen menos enfermedades cardiovasculares que los omnívoros. Una revisión de 1999 de 5 estudios publicada en el Diario Americano de Nutrición Clínica afirmó que el riesgo de morir por una enfermedad cardíaca es un 24% inferior en los vegetarianos frente a carnívoros, y aún menor en ovolactovegetarianos y veganos (Key TJ et al., 1999)”. 
+
+"En relación con el veganismo y el cuidado del medio ambiente, Pete Smith, investigador del Instituto de Ciencias Biológicas y Ambientales de la U. de Aberdeen, Escocia, declaró después de 20 años de investigación: “Debemos cambiar radicalmente la forma en que producimos alimentos si queremos alimentar a 9-10 mil 3  millones de personas en 2050 sin destruir el planeta de forma irreversible”… “Aparte de las grandes áreas de terreno que se emplean en la ganadería directamente, más del 30% de todos los cultivos producidos a nivel mundial son para alimentar al ganado”… En los 20 años más o menos que llevan investigando estos problemas, han llegado a la conclusión de que se debe reducir significativamente el consumo de productos de origen animal. Actualmente la postura científica dominante es la de la necesidad de reducir la demanda de productos de origen animal” (Greenpeace, 2018)". 
+
+Sin embargo, a pesar de la evidencia todavia hay quienes sostienen que el veganismo tiene grandes desventajas. 
+ 
 
 ## Hipótesis
 
