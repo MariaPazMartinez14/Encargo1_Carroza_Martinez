@@ -18,7 +18,7 @@ Sin embargo, a pesar de la evidencia todavia hay quienes sostienen que el vegani
 
 ## Hipótesis
 
-Nuestra historia es hacer la comparación de ambas industrias: la ganadera con la vegetal. Lo nuevo es que específicamente queremos desmitificar lo que se piensa de la industria vegana y mostrar su impacto actual.   
+Revelar la importancia de invertir en la industria de comida vegana comparando la industria ganadera con la vegetal.   
 
 ## Datos e Investigación
 
