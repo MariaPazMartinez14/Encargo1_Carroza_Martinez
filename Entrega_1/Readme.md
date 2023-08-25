@@ -60,7 +60,7 @@ Máximo: Analizar el crecimiento de una marca específica.
 Una cuenta en redes sociales que pueda publicar información sobre el mundo del veganismo y vegetarianismo para informar y narrar lo investigado.
 
 ## Análisis Crítico Personal - Agustina
-
+s
 Para mí es relevante realizar este tema ya que hace cuatro años me hice vegetariana y creo que en el caso de que exista una variedad mayor de opciones, se haría más fácil para las personas disminuir su consumo de animales. Espero revelar el gran mercado y variedad de opciones que hay y demostrar que existe una comunidad que apoya estas elecciones. El impacto que espero generar es evidenciar el crecimiento de quienes venden y trabajan con productos veganos. Me gustaría aprender a trabajar en las páginas que nos dio la profesora y encontrar su beneficio.
 
 ## Análisis Crítico Personal - María Paz 
