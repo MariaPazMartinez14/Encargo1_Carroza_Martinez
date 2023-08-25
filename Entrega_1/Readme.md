@@ -82,3 +82,8 @@ Aquí iría la base de datos con los datos que vamos a recopilar
 ##### [ANÁLISIS COMPARATIVO DEL IMPACTO SOBRE LA HUELLA DE CARBONO ENTRE DIETAS VEGANAS Y DIETAS OMNÍVORAS ](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://repositorio.udec.cl/bitstream/11594/9964/1/Tesis%20An%c3%a1lisis%20comparativo%20del%20impacto%20sobre%20la%20huella%20de%20carbono.Image.Marked.pdf)
 
 [MODELO DE NEGOCIOS PARA LA CREACIÓN DE UNA EMPRESA DE VENTA DE PRODUCTOS VEGANOS EN LA REGIÓN METROPOLITANA](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.uchile.cl/bitstream/handle/2250/192761/Modelo-de-negocios-para-la-creacion-de-una-empresa-de-venta-de-productos-veganos-en-la-Region-Metropolitana.pdf?sequence=1&isAllowed=y)
+
+
+
+# Link video presentación 
+
