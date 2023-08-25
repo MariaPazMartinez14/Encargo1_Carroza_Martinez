@@ -51,7 +51,7 @@ Revelar la importancia de invertir en la industria de comida vegana comparando l
 
 Mínimo: Confirmar el aumento de consumidores de comidas veganas o vegetarianas.
 
-Máximo: Analizar el crecimiento de una marca específica.
+Máximo: Probar el beneficio que trae optar por dietas veganas, entregando la evidencia de las diversas razones que existen.
 
 **Preguntas que se pueden responder con los datos:**
 - ¿Debe ser obligatorio incluir comida vegana en los restaurantes?
