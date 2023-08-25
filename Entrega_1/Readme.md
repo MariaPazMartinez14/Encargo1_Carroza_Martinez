@@ -1,4 +1,4 @@
-# Proyecto de Investigación: Impacto Económico de la Industria de Comida Vegana en Chile
+# Proyecto de Investigación: Impacto de la Industria de Comida Vegana en Chile
 
 ## Resumen
 En un contexto donde el mundo ha ganado consciencia en temas de sostenibilidad, salud, y bienestar animal, se ha visto un crecimiento en el consumo de comida y productos veganos. Chile no se ha quedado atrás, con un implemento de opciones veganas en restaurantes y también en la creación y expansión de productos de origen vegetal.  “Si para el año 2018, el 4% de los productos que había en el mercado chileno eran certificados como veganos, al 2021, esta cifra llegó al 12%”. 
@@ -60,7 +60,7 @@ Máximo: probar el beneficio que trae optar por dietas veganas, entregando la ev
 Una cuenta en redes sociales que pueda publicar información sobre el mundo del veganismo y vegetarianismo para informar y narrar lo investigado.
 
 ## Análisis Crítico Personal - Agustina
-
+s
 Para mí es relevante realizar este tema ya que hace cuatro años me hice vegetariana y creo que en el caso de que exista una variedad mayor de opciones, se haría más fácil para las personas disminuir su consumo de animales. Espero revelar el gran mercado y variedad de opciones que hay y demostrar que existe una comunidad que apoya estas elecciones. El impacto que espero generar es evidenciar el crecimiento de quienes venden y trabajan con productos veganos. Me gustaría aprender a trabajar en las páginas que nos dio la profesora y encontrar su beneficio.
 
 ## Análisis Crítico Personal - María Paz 
