@@ -17,7 +17,7 @@ Sin embargo, con el paso de los años y el aumento de personas que se han sumado
 
 La evidencia expuesta muestra claramente como el veganismo significa un beneficio en términos de salud y medioambiente. Por esta razón, **queremos probar porque se debería impulsar e invertir en la industria vegana.**
 
-"Un reciente estudio señala que el 18% de los chilenos se considera vegano o vegetariano, con una mirada cercana al respeto a los animales, el medioambiente y el cambio climático". En Chile hay demanda, existe una buena base para invertir en el mercado vegano y así promover de manera colateral los beneficios del veganismo."Para 2019 las ventas minoristas de alimentos en Chile alcanzaron los 15.700 millones de dólares (Chile Alimentos, 2020), y para ese entonces, el mercado vegano representaba el 6% de la oferta. Sin embargo, a 2021 esta cifra llegó a los 25.600 millones de dólares (Portal Frutícola, 2022) y los productos veganos representaron el 12% de la cuota de mercado (Mintel Group, 2021).  
+"Un reciente estudio señala que el 18% de los chilenos se considera vegano o vegetariano, con una mirada cercana al respeto a los animales, el medioambiente y el cambio climático". En Chile hay demanda, existe una buena base para invertir en el mercado vegano y así promover de manera colateral los beneficios del veganismo."Para 2019 las ventas minoristas de alimentos en Chile alcanzaron los 15.700 millones de dólares (Chile Alimentos, 2020), y para ese entonces, el mercado vegano representaba el 6% de la oferta. Sin embargo, a 2021 esta cifra llegó a los 25.600 millones de dólares (Portal Frutícola, 2022) y los productos veganos representaron el 12% de la cuota de mercado (Mintel Group, 2021)". 
  
 
 ## Hipótesis
